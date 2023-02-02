@@ -1,4 +1,4 @@
-This is a project that works with Visual Studio Code on the Mac.  
+This is a project that works with multipel files under Visual Studio Code on the Mac.  
 
 To compile and run in Visual Studio Code, right click on main.cpp and select 'Run Code'
 
